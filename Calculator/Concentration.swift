@@ -39,6 +39,7 @@ class Concentration{
             cards += [card, card]
             
         }
+    
         
         // TODO: Shuffie the card
 //        for cardToBeSwap in 0..<cards.count{
